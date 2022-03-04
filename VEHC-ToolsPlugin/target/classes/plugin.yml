@@ -1,0 +1,4 @@
+name: VEHC-Tools
+authors: [vFeesT]
+version: 2.3.1-SNAPSHOT
+main: pl.kodicrew.developers.vehctools.ToolsPlugin
